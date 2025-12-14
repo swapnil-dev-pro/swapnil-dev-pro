@@ -47,7 +47,7 @@ Username: swapnil-dev-pro
 | JavaScript | React | Git |
 | HTML | Next.js | GitHub |
 | CSS | Tailwind CSS | Git Bash |
-|  | Firebase | Bootstrap |
+|   | Bootstrap | Firebase |  
 
 </div>
 
